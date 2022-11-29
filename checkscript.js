@@ -1,1 +1,2 @@
-function checkscript(data) {console.log(data);}
+
+function checkscript(data) { alert("haha");}
